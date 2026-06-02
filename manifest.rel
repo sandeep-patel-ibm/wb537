@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">JDBCRegression_DB2_UDB</value>
+  <value name="version">1.0</value>
+  <value name="build"></value>
+  <value name="patch_nums"></value>
+  <value name="description"></value>
+  <value name="target_pkg_version">1.0</value>
+  <value name="jvm_version">21.0.10</value>
+  <value name="source_server_version">12.1.0.0</value>
+  <value name="target_server_version">12.1.0.0</value>
+  <value name="time">2026-03-11 04:18:16 PDT</value>
+  <value name="type">full</value>
+  <null name="retainPatchHistory"/>
+  <value name="target_pkg_name">JDBCRegression_DB2_UDB</value>
+  <value name="publisher">9.60.219.10</value>
+  <array name="files_to_delete" type="value" depth="1">
+  </array>
+</Values>
